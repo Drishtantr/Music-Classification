@@ -6,7 +6,6 @@ Classifying a given music into its respective genre from many diffferent availab
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Support](#support)
 - [Contributing](#contributing)
 
 ## Installation
